@@ -3,9 +3,9 @@
 # AI配置
 ai:
   api_key: "sk-xxxxxxxxxxxxxxxx"
-  base_url: "https://api.openai.com/v1"
-  model: "gpt-4o"
-  max_tokens: 2000
+  base_url: "http://192.168.200.34:11434/v1"
+  model: "qwen3:30b"
+  max_tokens: 8000
   temperature: 0.7
 
 # 数据源配置
