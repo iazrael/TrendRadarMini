@@ -1,0 +1,41 @@
+# TrendRadar Keywords Configuration
+
+groups:
+  - name: AI技术
+    priority: 1
+    keywords:
+      - OpenAI
+      - ChatGPT
+      - Claude
+      - Anthropic
+      - DeepSeek
+      - Kimi
+      - 通义千问
+      - 文心一言
+
+  - name: 大模型
+    priority: 2
+    keywords:
+      - Llama
+      - Gemma
+      - Yi
+      - Qwen
+      - Baichuan
+      - GLM
+
+  - name: 多模态
+    priority: 3
+    keywords:
+      - 视觉模型
+      - 图像生成
+      - Sora
+      - Midjourney
+      - DALL-E
+
+  - name: 应用场景
+    priority: 4
+    keywords:
+      - AI Agent
+      - RAG
+      - 代码助手
+      - 智能客服
